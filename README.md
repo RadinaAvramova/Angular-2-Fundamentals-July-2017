@@ -1,19 +1,17 @@
 # Angular 2 Fundamentals-July 2017
 
-Курсът "Angular" ми даде знания и практически умения за изграждане на клиентски приложения (Single Page Applications) с технологията Angular. Това е работна рамка, произведение на Google, и е една от най-популярните в момента. Научих какво е TypeScript, основен синтакс и концепции и какво повече той ни предлага пред JavaScript, като удобства за разработка в браузъра и на мобилните платформи. Изучих какво е Single Page Application (SPA), архитектурни шаблони за SPA приложения, компоненти, директиви и реализацията им в Angular. Изучих се изгледи и шаблони за визуализация на данни (templates), модели, компоненти, свързване на данни (data binding), работа с много изгледи, обзървабали (observables), рутиране (routing), извличане на данни от REST услуга и dependency injection (DI).
+The Angular course provides knowledge and practical skills for building client applications (Single Page Applications) with Angular technology. It is a working framework, a Google creation, and one of the most popular at the moment. We'll learn what TypeScript is, basic syntax and concepts, and what more it offers over JavaScript, such as conveniences for development in the browser and on mobile platforms. We learn what Single Page Application (SPA) is, architectural patterns for SPA applications, components, directives and their implementation in Angular. Data visualization views and templates, patterns, components, data binding, multi-view handling, observables, routing, REST service data mining and dependency injection (DI) are studied.
 
-Умения, които ще придобих: 
+Acquired skills : 
 
--Какво е Single Page Application
+  - What is Single Page Application
 
--Основни познания по TypeScript
+  - Basic knowledge of TypeScript
 
--Клиентски приложения с Angular
+  - Client applications with Angular
 
--Работа с отдалечени услуги
+  - Working with remote services
 
--Компонентно-базирани приложения
+  - Component-based applications
 
--Създаване на приложения изцяло с JavaScript & TypeScript
-
-Преподавател : Ивайло Кенов
+  - Creating applications entirely with JavaScript & TypeScript
